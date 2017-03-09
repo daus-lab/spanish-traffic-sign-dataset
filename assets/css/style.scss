@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header{
+  background-image: url("/assets/img/header.png");
+}
+
+.btn {
+  background-color: #159957;
+  border: none;
+  color: white;
+}
+
+.btn:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(44, 183, 114);
+  border: none;
+}
+
+.project-tagline {
+  opacity: 0.8;
+}
