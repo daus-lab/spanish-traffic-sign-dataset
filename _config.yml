@@ -1,12 +1,18 @@
 title: Spanish Traffic Sign Dataset
 tagline: Spanish dataset for traffic sign recognition
 baseurl: /spanish-traffic-sign-dataset
-githuburl: https://github.com/daus-lab/spanish-traffic-sign-dataset
+repository_url: https://github.com/daus-lab/spanish-traffic-sign-dataset
+repository_nwo: daus-lab/spanish-traffic-sign-dataset
+repository_name: spanish-traffic-sign-dataset
+zip_url: https://github.com/daus-lab/spanish-traffic-sign-dataset/zipball/master
+tar_url: https://github.com/daus-lab/spanish-traffic-sign-dataset/tarball/master
+is_project_page: true
+show_downloads: true
 
 author:
   name: daus-lab
-  url: http://grupos.us.es/dauslab/
+  web: http://grupos.us.es/dauslab/
 
 theme: jekyll-theme-cayman
-repository: daus-lab/spanish-traffic-sign-dataset
+#repository: daus-lab/spanish-traffic-sign-dataset
 github: [metadata]
