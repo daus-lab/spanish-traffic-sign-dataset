@@ -1,4 +1,5 @@
 title: Spanish Traffic Sign Dataset
+baseurl: /spanish-traffic-sign-dataset
 theme: jekyll-theme-cayman
-repository: "daus-lab/spanish-traffic-sign-dataset"
+repository: daus-lab/spanish-traffic-sign-dataset
 github: [metadata]
