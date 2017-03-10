@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header{
-  background-image: url("/assets/img/header.png");
+  background-image: url("{{ site.baseurl }}/assets/img/header.png");
 }
 
 .btn {
